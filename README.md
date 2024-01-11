@@ -21,13 +21,6 @@ https://client-puravidas-projects.vercel.app/
 https://youtu.be/05tl_rTLVtc?si=bHiXhfitxw_CzRae
 <br /> <br />
 
-## 💻 Tareas:
--Participar activamente en el diseño UI en Figma, asegurando que la interfaz de usuario sea intuitiva y amigable.
-<br /> <br />
--Trabajar en el equipo de Front-end, implementando una variedad de funcionalidades clave en una aplicación que enlaza clientes con expertos en viajes para la personalización de planes, así como en la creación de un dashboard administrativo eficiente.
-<br /> <br />
--Colaborar estrechamente con los equipos de Front-end y Back-end, organizándonos en reuniones diarias dirigidas por un Scrum Master. Resolvimos desafíos técnicos, evaluamos nuevas tecnologías y distribuimos las tareas efectivamente. Completamos 3 Sprints de desarrollo con revisiones periódicas junto al Product Owner.
-<br /> <br />
 
 ## 🛠️ Herramientas implementadas: 
 
